@@ -1,0 +1,17 @@
+com/example/covsymps/BuildConfig.java
+ com.example.covsymps.BuildConfig
+com/example/covsymps/Resprate.java
+ com.example.covsymps.Resprate
+com/example/covsymps/MainActivity.java
+ com.example.covsymps.MainActivity
+ com.example.covsymps.MainActivity$1
+ com.example.covsymps.MainActivity$2
+com/example/covsymps/DataBaseSymp.java
+ com.example.covsymps.DataBaseSymp
+ com.example.covsymps.DataBaseSymp$1
+ com.example.covsymps.DataBaseSymp$2
+ com.example.covsymps.DataBaseSymp$3
+com/example/covsymps/SQLiteHelper.java
+ com.example.covsymps.SQLiteHelper
+com/example/covsymps/Covid_Symtoms_Spin.java
+ com.example.covsymps.Covid_Symtoms_Spin
